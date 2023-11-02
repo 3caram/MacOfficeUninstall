@@ -5,7 +5,7 @@ This is a shell script to deep uninstall Microsoft Office for Mac 2011/2016/2019
  1. Make sure all Office applications are closed.
  2. Open Terminal, run:
 ```
-sudo sh -c "curl -s https://raw.githubusercontent.com/jimye/OfficeUninstall/master/office_uninstaller.sh | sh"
+sudo sh -c "curl -s https://raw.githubusercontent.com/3caram/MacOfficeUninstall/master/office_uninstaller.sh | sh"
 ```
 
 - As Microsoft Office for Mac is installed with root on /Applications, you have to run this script with sudo.
