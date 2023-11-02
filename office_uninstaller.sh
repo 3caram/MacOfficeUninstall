@@ -1,8 +1,5 @@
 #! /bin/sh
 
-# Author : jim ye
-# This is a shell scirpt to uninstall Microsoft Office for Mac 2011/2016/2019/365
-
 # Reference:
 # 1.https://support.microsoft.com/en-us/kb/2398768
 # 2.https://support.microsoft.com/en-us/office/troubleshoot-office-for-mac-issues-by-completely-uninstalling-before-you-reinstall-ec3aa66e-6a76-451f-9d35-cba2e14e94c0?omkt=en-us&ui=en-us&rs=en-us&ad=us
