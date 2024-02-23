@@ -11,7 +11,7 @@ sudo sh -c "curl -s https://raw.githubusercontent.com/3caram/MacOfficeUninstall/
 - As Microsoft Office for Mac is installed with root on /Applications, you have to run this script with sudo.
 	
 # Reference
-Microsoft not provide a offical uninstall program, but some documents about how to uninstall can be found in their website.
+Microsoft does not provide an offical uninstall script, but some documents about how to uninstall can be found in their website.
  1. [How to completely remove Office for Mac 2011][1]
  2. [Troubleshoot Office for Mac issues by completely uninstalling before you reinstall][2]
 
